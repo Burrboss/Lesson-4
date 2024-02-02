@@ -1,0 +1,14 @@
+﻿  hamhanded.cpp
+C:\Users\Ярослав\Documents\Lessons\hamhanded\hamhanded.cpp(78,11): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file '/hamhanded.cpp')
+  
+C:\Users\Ярослав\Documents\Lessons\hamhanded\hamhanded.cpp(83,11): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file '/hamhanded.cpp')
+  
+C:\Users\Ярослав\Documents\Lessons\hamhanded\hamhanded.cpp(88,11): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file '/hamhanded.cpp')
+  
+C:\Users\Ярослав\Documents\Lessons\hamhanded\hamhanded.cpp(93,11): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file '/hamhanded.cpp')
+  
+  hamhanded.vcxproj -> C:\Users\Ярослав\Documents\Lessons\hamhanded\x64\Debug\hamhanded.lib
